@@ -358,4 +358,4 @@ var manager: DownloaderManager? = DownloaderManager()
 downloader?.downloadManager = manager
 manager?.imagesDownloader = downloader
 
-//downloader?.addNewImage(name: "New Image")
+//manager?.imagesDownloader?.addNewImage(name: "Puppy Image")
